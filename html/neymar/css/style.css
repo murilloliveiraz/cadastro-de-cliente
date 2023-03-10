@@ -1,0 +1,22 @@
+@import "nav.css";
+@import "imgPrincipal.css";
+@import "secaoImagem.css";
+@import "sobre.css";
+
+body{
+    background-color: rgb(0, 0, 0);
+    color: #fff;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main {
+    width: 100%;
+ display: flex;
+ flex-direction: column;
+ height: 500px;
+}

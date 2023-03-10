@@ -1,0 +1,13 @@
+.pai {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: flex-end;
+    gap: 24px;
+}
+
+.filho1 , .filho2 , .filho3{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+}
